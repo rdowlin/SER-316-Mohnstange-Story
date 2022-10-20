@@ -5,7 +5,7 @@ Bratwurst - Type of Sausage
 Hauptstrasse - main street
 Brot - Bread
 Klimaanlage - Air Conditioning
-Rammstein - Heavy Metal Band
+Rammstein - Ramming stone
 Porsche - Car Brand
 BMW - Car Brand
 Biergarten - beer garden
@@ -18,7 +18,7 @@ Mehlhase - Dr. Mehlhase
 Gebaeck - Pastries
 Baeckerei - bakery
 Hund - german
-Doener - Doner
+Doener - Kebab
 Apfelkuchen - Apple cake
 Schloss - lock
 Eltz - A castle in Germany between Koblenz and Trier
